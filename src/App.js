@@ -1,20 +1,17 @@
 import React from 'react';
 import './App.css';
-import About from './components/About';
-import Footer from './components/Footer';
-import Navigation from './components/Navigation';
-import Button from 'react-bootstrap/Button'
+import Render from './components/Navigation/Render'
+import Footer from './components/Footer/Footer';
+import 'bootstrap/dist/css/bootstrap.min.css'
+
 
 function App() {
   return (
     <div>
-      <Navigation></Navigation>
-      <main>
-        <About></About>
+      <main class=".bg-info">
+        <Render></Render>
       </main>
       <Footer></Footer>
-      <Button>Test Button</Button>
-
 
     </div>
   );
