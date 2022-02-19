@@ -6,7 +6,7 @@ import Jay from "../assets/images/Jay.png"
 const About = () => {
     return (
         <div>
-            <avatar src={Jay}></avatar>
+            <img src={Jay} alt="avatar of Jay"></img>
             <p>
 
 
