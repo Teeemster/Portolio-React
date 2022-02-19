@@ -3,6 +3,7 @@ import React from "react";
 
 
 const Navigation = () => {
+
     return (
         <div>
             About Me | Portfolio | Contact | Resume

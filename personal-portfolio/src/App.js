@@ -3,13 +3,7 @@ import './App.css';
 import About from './components/About';
 import Footer from './components/Footer';
 import Navigation from './components/Navigation';
-import { makeStyles } from "@mui/styles";
-
-const backgroundStyle = makeStyles({
-  root: {
-    backgroundColor: "#87CEEB"
-  }
-})
+import Button from 'react-bootstrap/Button'
 
 function App() {
   return (
@@ -19,6 +13,7 @@ function App() {
         <About></About>
       </main>
       <Footer></Footer>
+      <Button>Test Button</Button>
 
 
     </div>
