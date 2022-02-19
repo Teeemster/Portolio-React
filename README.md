@@ -22,7 +22,7 @@
 ## Usage
 * The server can be invoked using npm start. From here, the practitioner will be enabled to alter users, thoughts, friends, or reactions.
 
-* Video: https://watch.screencastify.com/v/3UUxzRWYf1KneaRzHmNf
+* Site
 
 
 ## Contributors
