@@ -20,6 +20,9 @@
 * To use this application, you must clone the repo and install the dependencies using npm install. From here, you can initialize the server.
 
 ## Usage
+
+![Sample of React Portfolio Site](src/assets/images/sitesample.PNG)
+
 * The server can be invoked using npm start. From here, the practitioner will be enabled to read my about me, see my portfolio, submit a contact form if necessary, and download my resume.
 
 
