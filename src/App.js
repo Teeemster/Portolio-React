@@ -7,8 +7,8 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 
 function App() {
   return (
-    <div>
-      <main class=".bg-info">
+    <div className='backgroundmain'>
+      <main>
         <Render></Render>
       </main>
       <Footer></Footer>

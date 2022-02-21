@@ -10,16 +10,21 @@ const About = () => {
         <Container>
             <Row className="mb-12 text-center">
                 <Col>
+                    <br></br>
                     <img src={Jay} alt="avatar of Jay"></img>
-                    
+                    <br></br>
+                    <br></br>
             <p>
 
                 <b>Hi! I am Jonathan.
-                    <br></br>
+                            <br></br>
+                            <br></br>
                     I am a University of Texas graduate with a Bachelors of Science in Nutrition. Hook 'em!
-                    <br></br>
+                            <br></br>
+                            <br></br>
                     I am a current coding student with the University of Arizona, learning full-stack development!
-                    <br></br>
+                            <br></br>
+                            <br></br>
                     I have worked with ADP for the past five years learning everything there is to know about payroll
                     and taxes!
                 </b>

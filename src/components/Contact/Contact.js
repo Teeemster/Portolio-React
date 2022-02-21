@@ -43,31 +43,30 @@ function Contact() {
         <section>
             <Container>
                 <Row class="mb-12 text-center">
-                    <Col>
-            <h1 data-testid="h1tag">Contact me</h1>
+                    <h1 data-testid="h1tag">Contact me</h1>
+                </Row>
                         <form id="contact-form" onSubmit={handleSubmit}>
-                            
-                <div>
-                    <label htmlFor="name">Name:</label>
-                    <input type="text" name="name" defaultValue={name} onBlur={handleChange} />
-                </div>
-                <div>
+                    <Row class="mb-12 text-center">     
+                        <label htmlFor="name">Name:</label>
+                    <input type="text" name="Name" defaultValue={name} onBlur={handleChange} />
+                    </Row>
+                    <Row class="mb-12 text-center">
                     <label htmlFor="email">Email address:</label>
-                    <input type="email" name="email" defaultValue={email} onBlur={handleChange} />
-                </div>
-                <div>
-                    <label htmlFor="message">Message:</label>
-                    <textarea name="message" rows="5" defaultValue={message} onBlur={handleChange} />
-                </div>
-                {errorMessage && (
-                    <div>
+                    <input type="email" name="Email" defaultValue={email} onBlur={handleChange} />
+                    </Row>
+                    <Row class="mb-12 text-center">
+                        <label htmlFor="message">Message:</label>
+                    </Row>
+                    <Row class="mb-12 text-center">
+                    <textarea name="Message" rows="5" defaultValue={message} onBlur={handleChange} />
+                    </Row>
+                        {errorMessage && (
                         <p className="error-text">{errorMessage}</p>
-                    </div>
-                )}
+                    )}
+    <br></br>
                 <Button data-testid="button" type="submit">Submit</Button>
                     </form>
-                </Col>
-                </Row>
+                
         </Container>
         </section>
     );

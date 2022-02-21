@@ -16,6 +16,8 @@ const Project = () => {
         <Container>
             <Row className="mb-12 text-center">
                 <Col>
+                    <br></br>
+                    <br></br>
                     <div>
                         <h2>👇 Run Buddy 👇</h2>
                         <br></br>

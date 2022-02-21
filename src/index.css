@@ -59,6 +59,14 @@
   text-align: center;
 }
 
+.backgroundmain {
+  background-color: #e6e6fa;
+}
+
+.buttonmargin {
+ margin-left: 2px;
+}
+
 .subarticle {
   border-bottom: 10px dashed;
   border-color: #CC5500;

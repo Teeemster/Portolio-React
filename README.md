@@ -20,9 +20,10 @@
 * To use this application, you must clone the repo and install the dependencies using npm install. From here, you can initialize the server.
 
 ## Usage
-* The server can be invoked using npm start. From here, the practitioner will be enabled to alter users, thoughts, friends, or reactions.
+* The server can be invoked using npm start. From here, the practitioner will be enabled to navigate between the about section, the 
 
-* Site
+
+* Site:
 
 
 ## Contributors
