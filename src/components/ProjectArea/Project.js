@@ -18,7 +18,7 @@ const Project = () => {
                 <Col>
                     <br></br>
                     <br></br>
-                    <div>
+                    <div class="borderbottom">
                         <h2>👇 Run Buddy 👇</h2>
                         <br></br>
                         <p>Mobile: ✅</p>
@@ -33,12 +33,14 @@ const Project = () => {
                         <a href="https://teeemster.github.io/run-buddy/"><img class="sample-img"
                             src={runBuddy} alt="Sample Of The Run Buddy Website" />
                         </a>
+                        <br></br>
+                        <br></br>
                     </div>
 
                     <br></br>
                     <br></br>
 
-                    <div>
+                    <div class="borderbottom">
                         <h2>👇 Horiseon 👇</h2>
                         <br></br>
                         <p>Mobile: ❌</p>
@@ -53,12 +55,14 @@ const Project = () => {
                         <a href="https://teeemster.github.io/horiseon-refacted-code/"><img class="sample-img"
                             src={horiseon} alt="Sample Of The Horiseon Website" />
                         </a>
+                        <br></br>
+                        <br></br>
                     </div>
 
                     <br></br>
                     <br></br>
 
-                    <div>
+                    <div class="borderbottom">
                         <h2>👇 Quiz Time 👇</h2>
                         <br></br>
                         <p>Mobile: ❌</p>
@@ -73,12 +77,14 @@ const Project = () => {
                         <a href="https://teeemster.github.io/timed-quiz/"><img class="sample-img"
                             src={QuizTime} alt="Sample Of The Quiz Time Website" />
                         </a>
+                        <br></br>
+                        <br></br>
                     </div>
 
                     <br></br>
                     <br></br>
 
-                    <div>
+                    <div class="borderbottom">
                         <h2>👇 Weather Dash 👇</h2>
                         <br></br>
                         <p>Mobile: ❌</p>
@@ -95,12 +101,14 @@ const Project = () => {
                         <a href="https://teeemster.github.io/Weather-Dashboard/"><img class="sample-img"
                             src={WeatherDash} alt="Sample Of The Weather Dashboard Website" />
                         </a>
+                        <br></br>
+                        <br></br>
                     </div>
 
                     <br></br>
                     <br></br>
 
-                    <div>
+                    <div class="borderbottom">
                         <h2>👇 FinanceBot.io 👇</h2>
                         <br></br>
                         <p>Mobile: ✅</p>
@@ -117,12 +125,14 @@ const Project = () => {
                         <a href="https://teeemster.github.io/Bit-and-SNP-Review/"><img class="sample-img"
                             src={Project1} alt="Sample Of The Finance Bot Website" />
                         </a>
+                        <br></br>
+                        <br></br>
                     </div>
 
                     <br></br>
                     <br></br>
 
-                    <div>
+                    <div class="borderbottom">
                         <h2>👇 Rate My Joke! 👇</h2>
                         <br></br>
                         <p>Mobile: ✅</p>
@@ -143,6 +153,8 @@ const Project = () => {
                         <a href="https://jokeappproject2.herokuapp.com/login"><img class="sample-img"
                             src={JokeApp} alt="Sample Of The Joke App Website" />
                         </a>
+                        <br></br>
+                        <br></br>
                     </div>
 
                 </Col>

@@ -68,6 +68,14 @@
  border-color: black;
 }
 
+.contactme {
+  text-align: center;
+}
+
+.marginarea {
+  margin-left: 100px
+}
+
 .subarticle {
   border-bottom: 10px dashed;
   border-color: #CC5500;

@@ -3,7 +3,7 @@
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ## Description
-* This single page web application was designed using react. The application exhibits prior websites I have created as a developer. 
+* This is a single page web application that was designed using react. The application exhibits prior websites I have created as a developer. 
 
 ## Table of Contents
 * [Installation](#installation)
@@ -20,10 +20,10 @@
 * To use this application, you must clone the repo and install the dependencies using npm install. From here, you can initialize the server.
 
 ## Usage
-* The server can be invoked using npm start. From here, the practitioner will be enabled to navigate between the about section, the 
+* The server can be invoked using npm start. From here, the practitioner will be enabled to read my about me, see my portfolio, submit a contact form if necessary, and download my resume.
 
 
-* Site:
+* Site: https://teeemster.github.io/Portolio-React/
 
 
 ## Contributors
@@ -36,6 +36,4 @@
 ## Badges
 
 * <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/JS-green" alt="JavaScript"></a>
-* <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/EXPRESS-green" alt="EXPRESS.JS"></a>
 * <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/NODE-green" alt="NODE.JS"></a>
-* <a href="https://github.com/badges/shields"><img src="https://img.shields.io/badge/MONGODB-green" alt="MongoDB"></a>

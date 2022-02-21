@@ -42,8 +42,9 @@ function Contact() {
     return (
         <section>
             <Container>
+                <br></br>
                 <Row class="mb-12 text-center">
-                    <h1 data-testid="h1tag">Contact me</h1>
+                    <h1 data-testid="h1tag" class="contactme">Contact me</h1>
                 </Row>
                         <form id="contact-form" onSubmit={handleSubmit}>
                     <Row class="mb-12 text-center">     
