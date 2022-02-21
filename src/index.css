@@ -63,8 +63,9 @@
   background-color: #e6e6fa;
 }
 
-.buttonmargin {
- margin-left: 2px;
+.borderbottom {
+ border-bottom: 3px solid;
+ border-color: black;
 }
 
 .subarticle {

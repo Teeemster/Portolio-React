@@ -11,11 +11,12 @@ const Navigation = ({ currentPage, pageChange }) => {
     return (
         <Container>
             <Row className="mb-12 text-center gx-5">
-                <h1>Jonathan Beach</h1>
+                <h1 class="borderbottom">Jonathan Beach</h1>
                 <br></br>
                 <br></br>
                 <br></br>
                 <Col>
+                    <br></br>
                     <Button onClick={() => pageChange("About")}>👉 About Me 👈</Button>⚬
                     <Button onClick={() => pageChange("AllProjects")}>👉 Portfolio 👈</Button>⚬
                     <Button onClick={() => pageChange("Contact")}>👉 Contact 👈</Button>⚬
