@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Portfolio-React/static/css/main.91e04970.css",
-    "main.js": "/Portfolio-React/static/js/main.a7d1e5c1.js",
-    "static/js/787.fb771931.chunk.js": "/Portfolio-React/static/js/787.fb771931.chunk.js",
-    "static/media/horiseon.PNG": "/Portfolio-React/static/media/horiseon.3a183add1e4649f90486.PNG",
-    "static/media/run-buddy.PNG": "/Portfolio-React/static/media/run-buddy.7b345cff7ce1a455f2f3.PNG",
-    "static/media/QuizTime.PNG": "/Portfolio-React/static/media/QuizTime.55f90829e212556f7b9d.PNG",
-    "static/media/Jay.png": "/Portfolio-React/static/media/Jay.64e0a6b583c79a7c9f02.png",
-    "static/media/WeatherDashboard.PNG": "/Portfolio-React/static/media/WeatherDashboard.4da63c05017db30325cf.PNG",
-    "static/media/JokeApp.PNG": "/Portfolio-React/static/media/JokeApp.0773b56af4062d0f5f9d.PNG",
-    "static/media/Project1.png": "/Portfolio-React/static/media/Project1.43b502ada4364f456c01.png",
-    "static/media/Resume2020[153].docx": "/Portfolio-React/static/media/Resume2020[153].5c879eb93af25bf1ff5a.docx",
-    "index.html": "/Portfolio-React/index.html",
-    "main.91e04970.css.map": "/Portfolio-React/static/css/main.91e04970.css.map",
-    "main.a7d1e5c1.js.map": "/Portfolio-React/static/js/main.a7d1e5c1.js.map",
-    "787.fb771931.chunk.js.map": "/Portfolio-React/static/js/787.fb771931.chunk.js.map"
+    "main.css": "/Portolio-React/static/css/main.41ea875d.css",
+    "main.js": "/Portolio-React/static/js/main.f0125bcd.js",
+    "static/js/787.fb771931.chunk.js": "/Portolio-React/static/js/787.fb771931.chunk.js",
+    "static/media/horiseon.PNG": "/Portolio-React/static/media/horiseon.3a183add1e4649f90486.PNG",
+    "static/media/run-buddy.PNG": "/Portolio-React/static/media/run-buddy.7b345cff7ce1a455f2f3.PNG",
+    "static/media/QuizTime.PNG": "/Portolio-React/static/media/QuizTime.55f90829e212556f7b9d.PNG",
+    "static/media/Jay.png": "/Portolio-React/static/media/Jay.64e0a6b583c79a7c9f02.png",
+    "static/media/WeatherDashboard.PNG": "/Portolio-React/static/media/WeatherDashboard.4da63c05017db30325cf.PNG",
+    "static/media/JokeApp.PNG": "/Portolio-React/static/media/JokeApp.0773b56af4062d0f5f9d.PNG",
+    "static/media/Project1.png": "/Portolio-React/static/media/Project1.43b502ada4364f456c01.png",
+    "static/media/Resume2020[153].docx": "/Portolio-React/static/media/Resume2020[153].5c879eb93af25bf1ff5a.docx",
+    "index.html": "/Portolio-React/index.html",
+    "main.41ea875d.css.map": "/Portolio-React/static/css/main.41ea875d.css.map",
+    "main.f0125bcd.js.map": "/Portolio-React/static/js/main.f0125bcd.js.map",
+    "787.fb771931.chunk.js.map": "/Portolio-React/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.91e04970.css",
-    "static/js/main.a7d1e5c1.js"
+    "static/css/main.41ea875d.css",
+    "static/js/main.f0125bcd.js"
   ]
 }
